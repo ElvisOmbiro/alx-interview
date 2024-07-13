@@ -4,7 +4,7 @@
 
 def minOperations(n):
     """
-    Function that returns the minimum number of operations
+    Function that returning the minimum number of operations
 
     Args:
         n (int): number of elements
