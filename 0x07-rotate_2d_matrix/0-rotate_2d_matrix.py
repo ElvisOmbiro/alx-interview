@@ -2,7 +2,7 @@
 """
 Rotate 2D Matrix
 current number, then top for left, then left for bottom, then botttom for right
-then right for top
+then right for top.
 """
 
 def rotate_2d_matrix(matrix):
