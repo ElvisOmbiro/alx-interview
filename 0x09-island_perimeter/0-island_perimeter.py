@@ -4,7 +4,7 @@
 a function that calculates the perimeter of the island descried i grid
 """
 
-def island_perimeter(grid)
+def island_perimeter(grid):
     """
     args:
         grid: 2D array of 0s and 1s
